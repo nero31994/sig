@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", bilyonaryoch
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png" group-title="Local", bilyonaryoch
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -13,7 +13,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", rptv
+#EXTINF:-1 tvg-id="44B03994-C303-4ACE-997C-91CAC493D0FC" tvg-logo="logo_url" group-title="Local", rptv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
